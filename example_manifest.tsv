@@ -1,0 +1,5 @@
+sample	group	path	ichor_TF	FRAGLE_TF
+patient_01	Low	/data/griffin/patient_01	0.02	0.03
+patient_02	Low	/data/griffin/patient_02	0.04	0.05
+patient_03	High	/data/griffin/patient_03	0.10	0.12
+patient_04	High	/data/griffin/patient_04	0.14	0.15
